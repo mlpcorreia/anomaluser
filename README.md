@@ -9,7 +9,7 @@ The proposed solution comes from the investigation and writing of my master's th
 
 ## System Overview
 
-![Alt text](https://github.com/mlpcorreia/anomaluser/blob/master/images/solution-diagram.png?raw=true)
+![Alt text](https://github.com/mlpcorreia/anomaluser/blob/master/images/solution-diagram.png?raw=true | width=100)
 
 There is also a implementation of [Anomalicious](https://arxiv.org/abs/2103.03846), used during the investigation to test and compare the accuracy against the proposed solution.
 
